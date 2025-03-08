@@ -1,7 +1,3 @@
-Here's a GitHub description for your project:  
-
----
-
 # 📚 Library Management System (GUI)  
 
 A modern **Library Management System** built with **Python** and **Tkinter**, featuring a sleek **macOS-inspired UI**. This application allows users to **add, search, borrow, and return books** seamlessly.  
