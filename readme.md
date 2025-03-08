@@ -19,10 +19,10 @@ A modern **Library Management System** built with **Python** and **Tkinter**, fe
 - **Tkinter (GUI Library)**  
 
 ## 🖥️ How to Run  
-1. Install Python (if not installed)  
+1. Install Python and tkinter library (if not installed)  
 2. Run the script:  
    ```sh
-   python library_gui.py
+   python main.py
    ```
 3. Enjoy managing your library with an intuitive interface!  
 
