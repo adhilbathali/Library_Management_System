@@ -30,5 +30,3 @@ A modern **Library Management System** built with **Python** and **Tkinter**, fe
 _(Add a screenshot of your GUI here for better presentation.)_  
 
 --- -->
-
-Let me know if you need any modifications! 🚀
